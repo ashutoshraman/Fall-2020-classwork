@@ -4,6 +4,6 @@ What do i want in my database:
 Name
 Blood Type
 Address
-Donor
+Donor Loc Center Address
 
 What do I do?
